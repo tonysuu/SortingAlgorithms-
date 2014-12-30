@@ -3,9 +3,9 @@ import hsa.*;
 public class BubbleSort {
     public static void main(String [] args){
         int array [] = {1,5,3,2,9};
-        Sort(array);
+        Bsort(array);
     }
-    public static void Sort(int [] array)
+    public static void Bsort(int [] array)
     {
         int temp = 0;
         for (int i = array.length-1; i >= 0; i--)
