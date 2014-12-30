@@ -1,4 +1,4 @@
 SortingAlgorithms-
 ==================
 
-Sorting algorithms in c# and java.
+Sorting algorithms in c#/java.
